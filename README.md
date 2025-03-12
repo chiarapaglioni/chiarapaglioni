@@ -1,8 +1,8 @@
 # Ciao! I'm Chiara
 <div style="background-color: rgba(50, 50, 70, 1); padding: 20px; border-radius: 15px;">
   <br\>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" />
-  <ul style="list-style-type: disc; padding-left: 20px; padding-top: 15px; align-items: center;">
+  <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" />
+  <ul style="list-style-type: disc; padding-left: 20px; padding-top: 15px; align-items: center;"> -->
     <li>📚 My projects focus on <strong>Natural Language Processing</strong>, <strong>Computer Vision</strong>, <strong>Reinforcement Learning</strong>, and <strong>Quantum Computing</strong></li>
     <li>🎓 I'm a postgraduate student in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong> at the <em>University of Birmingham</em></li>
     <li>👩🏼‍🎓 I graduated in <strong>Artificial Intelligence</strong> and <strong>Data Science</strong> from <em>Maastricht University</em></li>
@@ -11,10 +11,13 @@
   </ul>
 </div>
 
-## 🌟 Recent Projects
+## Recent Projects
 
 <div style="background-color: rgba(50, 50, 70, 1); padding: 10px; padding-top: 20px; border-radius: 15px; align-items: center;">
   <p align="center">
+    <a href="https://github.com/chiarapaglioni/MultiAgent-ReinforcementLearning">
+      <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=Pasqal_Hackathon_Feb25_Team_01&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Multimodal Cancer Detection"/>
+    </a>
     <a href="https://github.com/chiarapaglioni/MultiAgent-ReinforcementLearning">
       <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=MultiAgent-ReinforcementLearning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Multi Agent Reinforcement Learning"/>
     </a>
@@ -24,7 +27,7 @@
   </p>
 </div>
 
-## 🛠 Skills
+## Skills
 <div style="background-color: rgba(50, 50, 70, 1); padding: 10px; border-radius: 15px; margin: 5px; text-align: center; align-items: center; padding-top: 20px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin: 3px;" />
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" style="margin: 3px;" />
@@ -57,15 +60,15 @@
   <img src="https://img.shields.io/badge/Artifactory-41BF47?logo=jfrog&logoColor=white" style="margin: 3px;" />
 </div>
 
-## ⚙️ GitHub Analytics
+<!-- ## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/AVS1508">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarapaglioni&langs_count=8&theme=algolia"/>
   </a>
-</p>
+</p> -->
 
-## 🤝🏻 Contacts
+## Contacts
 <div style="background-color: rgba(50, 50, 70, 1); padding: 5px; padding-top: 10px; border-radius: 15px; margin: 5px; text-align: center;">
     <div>
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiarapaglioni/" style="margin: 3px;" />
