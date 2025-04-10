@@ -69,9 +69,9 @@
 </p> -->
 
 ## Contacts
-<div style="background-color: rgba(50, 50, 70, 1); padding: 5px; padding-top: 10px; border-radius: 15px; margin: 5px; text-align: center;">
-   <br\>
-      <li> 📧 Email: [your.email@gmail.com](mailto:paglionic@gmail.com)  
-      <li> 💼 LinkedIn: [linkedin.com/in/chiarapaglioni](https://www.linkedin.com/in/chiarapaglioni)
-    </ul>
+<div style="background-color: rgba(50, 50, 70, 1); padding: 10px; border-radius: 15px; margin: 5px; text-align: center;">
+  <p>
+    📧 <strong>Email:</strong> <a href="mailto:paglionic@gmail.com" style="color:#f8d866;">paglionic@gmail.com</a><br>
+    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chiarapaglioni" style="color:#f8d866;">linkedin.com/in/chiarapaglioni</a>
+  </p>
 </div>
