@@ -70,8 +70,8 @@
 
 ## Contacts
 <div style="background-color: rgba(50, 50, 70, 1); padding: 5px; padding-top: 10px; border-radius: 15px; margin: 5px; text-align: center;">
-    <div>
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiarapaglioni/" style="margin: 3px;" />
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)(mailto:paglionic@gmail.com)" style="margin: 3px;" />
-    </div>
+   <br\>
+      <li> 📧 Email: [your.email@gmail.com](mailto:paglionic@gmail.com)  
+      <li> 💼 LinkedIn: [linkedin.com/in/chiarapaglioni](https://www.linkedin.com/in/chiarapaglioni)
+    </ul>
 </div>
