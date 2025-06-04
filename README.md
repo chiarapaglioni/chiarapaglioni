@@ -8,19 +8,31 @@
 
 ## Recent Projects
 
-<div style="background-color: rgba(50, 50, 70, 1); padding: 10px; padding-top: 20px; border-radius: 15px; align-items: center;">
-  <p align="center">
-    <a href="https://github.com/chiarapaglioni/PasqalAIQuantumChallenge">
-      <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=PasqalAIQuantumChallenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Multimodal Cancer Detection"/>
-    </a>
-    <a href="https://github.com/chiarapaglioni/UserStates-Clustering">
-      <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=UserStates-Clustering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Clustering of High-Performance User States"/>
-    </a>
-    <a href="https://github.com/chiarapaglioni/MultiAgentSurveillance">
-      <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=MultiAgentSurveillance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Multi Agent Reinforcement Learning"/>
-    </a>
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chiarapaglioni/PasqalAIQuantumChallenge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=PasqalAIQuantumChallenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="250"/>
+        <br />
+        <sub><b>Multimodal Cancer Detection</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chiarapaglioni/UserStates-Clustering">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=UserStates-Clustering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="250"/>
+        <br />
+        <sub><b>Unsupervised Clustering</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chiarapaglioni/MultiAgentSurveillance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiarapaglioni&repo=MultiAgentSurveillance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="250"/>
+        <br />
+        <sub><b>Multi-Agent Reinforcement Learning</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 
