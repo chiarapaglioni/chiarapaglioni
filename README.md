@@ -24,17 +24,10 @@
 
 ## Skills
 
-### Core Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=Matlab&logoColor=white" /> <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=Qiskit&logoColor=white" />
-
-### AI/Data
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-3D9B4B?logo=seaborn&logoColor=white" />
-
-### Development Tools
-<img src="https://img.shields.io/badge/Git-FF3366?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/Artifactory-41BF47?logo=jfrog&logoColor=white" />
-
-### Data Formats
-<img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/XML-8A2BE2?logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" /> <img src="https://img.shields.io/badge/TOML-9B4F96?logo=toml&logoColor=white" />
+- **Programming & Core**: Python, Java, R, SQL, Bash, MATLAB, Qiskit (Quantum Computing)
+- **AI & Data**: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, pandas, SciPy, Matplotlib, Seaborn
+- **Development & Infrastructure**: Git, GitHub, Docker, AWS, Conda, Maven, Gradle, Artifactory
+- **Data Formats**: JSON, XML, YAML, TOML
 
 <!-- ## ⚙️ GitHub Analytics
 <p align="center">
