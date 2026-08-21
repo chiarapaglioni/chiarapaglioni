@@ -1,8 +1,8 @@
 # Ciao! I'm Chiara
 <div style="background-color: rgba(50, 50, 70, 1); padding: 20px; border-radius: 15px;">
   <br\>
-  Machine Learning Engineer with a degrees in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong> and <strong>Data Science</strong>. Originally from Italy 🇮🇹 I’ve lived and studies in Germany 🇩🇪, the UK 🇬🇧, Spain 🇪🇸, the US 🇺🇸 and the Netherlands 🇳🇱.
-  My projects focus on <strong>Deep Learning</strong>, <strong>NLP</strong>, <strong>Reinforcement Learning</strong> and <strong>Quantum Computing</strong>. 
+AI/ML Engineer with a degrees in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong> and <strong>Data Science</strong>. Originally from Italy 🇮🇹 I’ve lived/studies in Germany 🇩🇪, the UK 🇬🇧, Spain 🇪🇸, the US 🇺🇸 and the Netherlands 🇳🇱.
+  My projects focus on <strong>AI Agents</strong>, <strong>Deep Learning</strong>, <strong>NLP</strong>, <strong>Computer Vision</strong> and <strong>Quantum Computing</strong>. 
   </ul>
 </div>
 
